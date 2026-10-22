@@ -1,0 +1,27 @@
+{
+  "title": "Greetings",
+  "titleAr": "التحيات والتعارف",
+  "level": "A1",
+  "summary": "كيف تُحيّي الآخرين وتعرّف بنفسك بالإنجليزية.",
+  "sections": [
+    { "type": "text", "title": "فكرة الدرس",
+      "body": ["تبدأ أي محادثة بتحية. وفي اللغة الإنجليزية تختلف التحية بحسب وقت اليوم: الصباح، وما بعد الظهر، والمساء."] },
+    { "type": "examples", "title": "جمل مهمة", "items": [
+      { "en": "Hello, how are you?", "ar": "مرحبًا، كيف حالك؟" },
+      { "en": "I'm fine, thank you.", "ar": "أنا بخير، شكرًا لك." },
+      { "en": "Nice to meet you.", "ar": "سعيد بلقائك." },
+      { "en": "My name is Sara.", "ar": "اسمي سارة." }
+    ]},
+    { "type": "vocab", "title": "مفردات جديدة", "items": [
+      { "en": "Good morning", "ar": "صباح الخير" },
+      { "en": "Good afternoon", "ar": "طاب يومك (بعد الظهر)" },
+      { "en": "Good evening", "ar": "مساء الخير" },
+      { "en": "Goodbye", "ar": "إلى اللقاء" }
+    ]},
+    { "type": "tip", "body": "تُقال عبارة Good night عند الذهاب إلى النوم أو عند الوداع ليلًا، ولا تُستخدم للتحية عند اللقاء." }
+  ],
+  "quiz": [
+    { "q": "What do you say in the morning?", "options": ["Good night", "Good morning", "Goodbye"], "answer": 1 },
+    { "q": "Choose the correct answer: How are you?", "options": ["I'm fine, thank you.", "My name is Sara.", "Nice to meet you."], "answer": 0 }
+  ]
+}

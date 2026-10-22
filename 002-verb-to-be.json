@@ -1,0 +1,20 @@
+{
+  "title": "The verb to be",
+  "titleAr": "فعل الكينونة: am, is, are",
+  "level": "A1",
+  "summary": "أهم فعل في الإنجليزية وطريقة استخدامه.",
+  "sections": [
+    { "type": "text", "title": "الشرح",
+      "body": ["لا تخلو الجملة الإنجليزية من فعل. ويتغيّر فعل to be بحسب الضمير: <mark>am</mark> مع I، و<mark>is</mark> مع he / she / it، و<mark>are</mark> مع you / we / they."] },
+    { "type": "examples", "title": "أمثلة", "items": [
+      { "en": "I am a student.", "ar": "أنا طالب." },
+      { "en": "She is happy.", "ar": "هي سعيدة." },
+      { "en": "They are friends.", "ar": "هم أصدقاء." }
+    ]},
+    { "type": "tip", "body": "في الكلام اليومي نختصر الفعل: I am ← I'm، وshe is ← she's، وthey are ← they're." }
+  ],
+  "quiz": [
+    { "q": "She ___ happy.", "options": ["am", "is", "are"], "answer": 1 },
+    { "q": "They ___ friends.", "options": ["is", "am", "are"], "answer": 2 }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "english-site",
+  "version": "1.0.0",
+  "description": "Daily English lessons with server-side lesson locking",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

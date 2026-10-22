@@ -1,0 +1,20 @@
+{
+  "title": "Numbers 1–10",
+  "titleAr": "الأعداد من 1 إلى 10",
+  "level": "A1",
+  "summary": "تعلّم العدّ بالإنجليزية.",
+  "sections": [
+    { "type": "vocab", "title": "الأعداد", "items": [
+      { "en": "one", "ar": "1" }, { "en": "two", "ar": "2" }, { "en": "three", "ar": "3" },
+      { "en": "four", "ar": "4" }, { "en": "five", "ar": "5" }, { "en": "six", "ar": "6" },
+      { "en": "seven", "ar": "7" }, { "en": "eight", "ar": "8" }, { "en": "nine", "ar": "9" }, { "en": "ten", "ar": "10" }
+    ]},
+    { "type": "examples", "title": "أمثلة", "items": [
+      { "en": "I have two brothers.", "ar": "لديّ أخوان." },
+      { "en": "It costs ten dirhams.", "ar": "ثمنه عشرة دراهم." }
+    ]}
+  ],
+  "quiz": [
+    { "q": "What is 5 in English?", "options": ["four", "five", "six"], "answer": 1 }
+  ]
+}
